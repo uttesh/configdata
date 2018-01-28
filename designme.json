@@ -1,0 +1,45 @@
+{
+    "category": [
+	{
+        "name":"Blouse",
+        "id":"72157666658254479"
+    },
+	{
+        "name":"kids",
+        "id":"72157689864373452"
+    },
+	{
+        "name":"Top",
+        "id":"72157689823752194"
+    },{
+        "name":"Gown/Western Dresses",
+        "id":"72157666658254479"
+    },
+	{
+        "name":"Dupatta",
+        "id":"72157666658254479"
+    }
+	,
+	{
+        "name":"Dupattas",
+        "id":"72157666658254479"
+    }
+	
+	]
+	,
+    "Contacts": [
+        {
+            "name":"Jelena",
+            "email":"hamomdesigns@gmail.com",
+            "image":"images/team/MR.KISHAN NUTHAKKI.jpg",
+            "whatsapp":"+917308562086",
+			"phone":"+917641043712"
+        }
+		],
+		"flash_notice": {
+			"message":"",
+			"show":"false",
+			"start_date":"2017-06-20",
+			"end_date":"2017-07-09"
+		}
+ }
