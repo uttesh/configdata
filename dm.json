@@ -2,36 +2,39 @@
     "category": [
 	{
         "name":"Blouse",
-        "id":"72157666658254479"
+        "id":"72157666658254479",
+		"imageURL":"https://farm5.staticflickr.com/4704/39239311174_b6212b0673_b.jpg",
+		"order":1
     },
 	{
         "name":"kids",
-        "id":"72157689864373452"
+        "id":"72157689864373452",
+		"imageURL":"https://farm5.staticflickr.com/4714/28169756989_5ccbb746a6_b.jpg",
+		"order":2
     },
 	{
         "name":"Top",
-        "id":"72157689823752194"
+        "id":"72157689823752194",
+		"imageURL":"https://farm5.staticflickr.com/4760/28169757379_79b925c81d_b.jpg",
+		"order":3
     },{
-        "name":"Gown/Western Dresses",
-        "id":"72157666658254479"
+        "name":"Gown/Dresses",
+        "id":"72157666658254479",
+		"imageURL":"https://farm5.staticflickr.com/4604/28169757229_f2ee7f584b_b.jpg",
+		"order":4
     },
 	{
         "name":"Dupatta",
-        "id":"72157666658254479"
+        "id":"72157689877410632",
+		"imageURL":"https://farm5.staticflickr.com/4761/28169679669_9446c2ff32_b.jpg",
+		"order":5
     }
-	,
-	{
-        "name":"Dupattas",
-        "id":"72157666658254479"
-    }
-	
 	]
 	,
     "Contacts": [
         {
             "name":"Jelena",
             "email":"hamomdesigns@gmail.com",
-            "image":"images/team/MR.KISHAN NUTHAKKI.jpg",
             "whatsapp":"+917308562086",
 			"phone":"+917641043712"
         }
