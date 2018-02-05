@@ -38,15 +38,17 @@
             "email":"hamomdesigns@gmail.com",
             "whatsapp":"+919008871144",
 			"phone":"+919008871144",
-			"picture": "https://farm5.staticflickr.com/4654/39389862384_10f430fdf4_b.jpg"
+			"picture": "https://farm5.staticflickr.com/4654/39389862384_10f430fdf4_b.jpg",
+			"description":""
         },
         {
 		    "_id":2,
             "name":"Jelena Khumukcham",
             "email":"hamomdesigns@gmail.com",
             "whatsapp":"+917308562086",
-			"phone":"+917308562086"
-			"picture": "https://farm5.staticflickr.com/4654/39389862384_10f430fdf4_b.jpg"
+			"phone":"+917308562086",
+			"picture": "https://farm5.staticflickr.com/4654/39389862384_10f430fdf4_b.jpg",
+			"description":""
         }
 		],
 		"flash_notice": {
