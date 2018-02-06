@@ -1,66 +1,65 @@
 {
-    "category": [
-	{
-        "name":"Blouse",
-        "id":"72157666658254479",
-		"imageURL":"https://farm5.staticflickr.com/4704/39239311174_b6212b0673_b.jpg",
-		"order":1
-    },
-	{
-        "name":"kids",
-        "id":"72157689864373452",
-		"imageURL":"https://farm5.staticflickr.com/4714/28169756989_5ccbb746a6_b.jpg",
-		"order":2
-    },
-	{
-        "name":"Top",
-        "id":"72157689823752194",
-		"imageURL":"https://farm5.staticflickr.com/4760/28169757379_79b925c81d_b.jpg",
-		"order":3
-    },{
-        "name":"Gown/Dresses",
-        "id":"72157666658254479",
-		"imageURL":"https://farm5.staticflickr.com/4604/28169757229_f2ee7f584b_b.jpg",
-		"order":4
-    },
-	{
-        "name":"Dupatta",
-        "id":"72157691090903501",
-		"imageURL":"https://farm5.staticflickr.com/4761/28169679669_9446c2ff32_b.jpg",
-		"order":5
-    }
-	]
-	,
-	"about":"Design Me (DM) by Supriya is a startup of fashion clothing online outlet, we are creative, independent, driven and fast learning Product Development team.
-Cloths play an important role in protection from various factors but also feel very comfortable and protective for human being. If these clothes are artistic and comfortable it gives better look to that person, we are very small team with good potential on bringing the latest trends with lower price.
-"
-	,
-    "Contacts": [
-	   {
-	        "_id":1,
-            "name":"Supriya Hamom",
-            "email":"hamomdesigns@gmail.com",
-            "whatsapp":"+919008871144",
-			"phone":"+919008871144",
-			"picture": "https://farm5.staticflickr.com/4654/39389862384_80eb70bc34_b.jpg",
-			"designation":"Software Developer/Art Director/Fashion Designer",
-			"description":""
-        },
-        {
-		    "_id":2,
-            "name":"Jelena Khumukcham",
-            "email":"hamomdesigns@gmail.com",
-            "whatsapp":"+917308562086",
-			"phone":"+917308562086", 
-			"picture": "https://farm5.staticflickr.com/4702/40115796601_44f42afbdf_b.jpg",
-			"designation":"Fashion Designer",
-			"description":""
-        }
-		],
-		"flash_notice": {
-			"message":"",
-			"show":"false",
-			"start_date":"2017-06-20",
-			"end_date":"2017-07-09"
+	"category": [
+		{
+			"name": "Blouse",
+			"id": "72157666658254479",
+			"imageURL": "https://farm5.staticflickr.com/4704/39239311174_b6212b0673_b.jpg",
+			"order": 1
+		},
+		{
+			"name": "kids",
+			"id": "72157689864373452",
+			"imageURL": "https://farm5.staticflickr.com/4714/28169756989_5ccbb746a6_b.jpg",
+			"order": 2
+		},
+		{
+			"name": "Top",
+			"id": "72157689823752194",
+			"imageURL": "https://farm5.staticflickr.com/4760/28169757379_79b925c81d_b.jpg",
+			"order": 3
+		},
+		{
+			"name": "Gown/Dresses",
+			"id": "72157666658254479",
+			"imageURL": "https://farm5.staticflickr.com/4604/28169757229_f2ee7f584b_b.jpg",
+			"order": 4
+		},
+		{
+			"name": "Dupatta",
+			"id": "72157691090903501",
+			"imageURL": "https://farm5.staticflickr.com/4761/28169679669_9446c2ff32_b.jpg",
+			"order": 5
 		}
- }
+	],
+	"dm": {
+		"about": "Design Me (DM) by Supriya is a startup of fashion clothing online outlet, we are creative, independent, driven and fast learning Product Development team. Cloths play an important role in protection from various factors but also feel very comfortable and protective for human being. If these clothes are artistic and comfortable it gives better look to that person, we are very small team with good potential on bringing the latest trends with lower price."
+	},
+	"Contacts": [
+		{
+			"_id": 1,
+			"name": "Supriya Hamom",
+			"email": "hamomdesigns@gmail.com",
+			"whatsapp": "+919008871144",
+			"phone": "+919008871144",
+			"picture": "https://farm5.staticflickr.com/4654/39389862384_80eb70bc34_b.jpg",
+			"designation": "Software Developer/Art Director/Fashion Designer",
+			"description": ""
+		},
+		{
+			"_id": 2,
+			"name": "Jelena Khumukcham",
+			"email": "hamomdesigns@gmail.com",
+			"whatsapp": "+917308562086",
+			"phone": "+917308562086",
+			"picture": "https://farm5.staticflickr.com/4702/40115796601_44f42afbdf_b.jpg",
+			"designation": "Fashion Designer",
+			"description": ""
+		}
+	],
+	"flash_notice": {
+		"message": "",
+		"show": "false",
+		"start_date": "2017-06-20",
+		"end_date": "2017-07-09"
+	}
+}
